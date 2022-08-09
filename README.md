@@ -1,16 +1,27 @@
-### Hi there 👋
 
-<!--
-**Anshvachhani99/Anshvachhani99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+My+GitHub+Profile)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **📚 ʜɪɢʜ sᴄʜᴏᴏʟ sᴛᴜᴅᴇɴᴛ**
+
+- **❤️ ᴛᴇʟᴇɢʀᴀᴍ**
+
+## Profile views
+
+![Visitor Count](https://profile-counter.glitch.me/{Nihaal-TG}/count.svg)
+
+## GitHub Status
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Nihaal-TG&theme=highcontrast" align="center">
+
+</p>
+
+# Contact
+
+<p align="center">
+
+<a href="https://t.me/NL_BOTxCHAT"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+
+</p>
